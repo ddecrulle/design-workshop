@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksurvey_design_workbench=self.webpackChunksurvey_design_workbench||[]).push([[4408],{2918:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/survey-design-workbench/blog/tags/docusaurus","allTagsPath":"/survey-design-workbench/blog/tags","count":4}')}}]);
