@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_workshop=self.webpackChunkdesign_workshop||[]).push([[5944],{7119:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/design-workshop/blog/tags/facebook","allTagsPath":"/design-workshop/blog/tags","count":1}')}}]);

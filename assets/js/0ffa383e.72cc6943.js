@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesign_workshop=self.webpackChunkdesign_workshop||[]).push([[5590],{1411:o=>{o.exports=JSON.parse('{"permalink":"/design-workshop/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
