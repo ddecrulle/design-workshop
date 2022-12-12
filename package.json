@@ -1,7 +1,22 @@
 {
-  "name": "design-workshop",
+  "name": "survey-design-workbench",
   "version": "0.0.0",
-  "private": true,
+  "homepage": "https://ddecrulle.github.io/survey-design-workbench/",
+  "author": {
+    "name": "Dylan DECRULLE",
+    "email": "dylan.decrulle@outlook.fr"
+  },
+  "license": "MIT",
+  "description": "Survey Design Workbench documentation website",
+  "keywords": [
+    "docusaurus",
+    "documentation",
+    "survey"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddecrulle/survey-design-workbench"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

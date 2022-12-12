@@ -6,10 +6,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Design Workshop",
+  title: "Survey Design Workbench",
   tagline: "Documentation of the product",
   url: "https://ddecrulle.github.io/",
-  baseUrl: "/design-workshop/",
+  baseUrl: "/survey-design-workbench/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "ddecrulle", // Usually your GitHub org/user name.
-  projectName: "design-workshop", // Usually your repo name.
+  projectName: "survey-design-workbench", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -36,14 +36,15 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/ddecrulle/design-workshop/tree/main",
+          editUrl:
+            "https://github.com/ddecrulle/survey-design-workbench/tree/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/ddecrulle/design-workshop/tree/main/blog",
+            "https://github.com/ddecrulle/survey-design-workbench/tree/main/blog",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -56,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Design Workshop",
+        title: "Survey Design Workbench",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -70,7 +71,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/ddecrulle/design-workshop",
+            href: "https://github.com/ddecrulle/survey-design-workbench",
             label: "GitHub",
             position: "right",
           },
@@ -110,7 +111,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/ddecrulle/design-workshop",
+                href: "https://github.com/ddecrulle/survey-design-workbench",
               },
             ],
           },

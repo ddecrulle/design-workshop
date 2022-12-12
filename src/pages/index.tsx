@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={siteConfig.title}
-      description="Design Workshop documentation">
+      description="Survey Design Workbench documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
