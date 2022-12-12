@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdesign_workshop=self.webpackChunkdesign_workshop||[]).push([[4778],{8001:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/design-workshop/blog/tags/docusaurus","allTagsPath":"/design-workshop/blog/tags","count":4}')}}]);

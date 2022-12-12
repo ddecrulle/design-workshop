@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdesign_workshop=self.webpackChunkdesign_workshop||[]).push([[6505],{5005:e=>{e.exports=JSON.parse('{"permalink":"/design-workshop/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
