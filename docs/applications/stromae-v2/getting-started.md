@@ -41,6 +41,17 @@ A quick fix is to modify the `build-configuration.json` file located in public d
 }
 ```
 
+## 404 Pages
+
+Once your ready, you must redirected to a 404 page.
+
+![](../../../static/img/applications/stromae-v2/404.png)
+
+This is the correct behavior. Stromae is an application included in an IS with a micro service architecture. The respondents are redirected to Stromae with query param in the url.
+
+
+There is however a visualization page at the root `visualize` (http://localhost:3000/visualize). It is visualization, there is no persistent data, authentication (even if it is enabled) etc...
+
 ## Environnement values
 
 Due to an old strange delivery constraint in production, environment variables are managed with json static files in the public folder.
