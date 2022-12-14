@@ -21,7 +21,7 @@ The survey design workbench product is part of the new survey chain composed of 
 - [Queen](applications/queen/queen.mdx)
 - Public Enemy
 
-:::warning
+:::warning Warning
 Some software building blocks are essential and dependent on the operation of the Survey Design product but are not part of the product itself.
 
 These are:
