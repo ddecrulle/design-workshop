@@ -83,4 +83,17 @@ The environment variables related to authentication to keycloak are present in t
 
 ### `.env` files
 
+```
+SKIP_PREFLIGHT_CHECK=true
+REACT_APP_LUNATIC_LOADER_WORKER_PATH=${PUBLIC_URL}/workers/lunatic-append-worker-0.2.4-experimental.js
+REACT_APP_LUNATIC_SEARCH_WORKER_PATH=${PUBLIC_URL}/workers/lunatic-searching-worker-0.2.4-experimental.js
+REACT_APP_LUNATIC_LABEL_WORKER_PATH=${PUBLIC_URL}/workers/lunatic-label-worker-0.2.4-experimental.js
+# In production
+PUBLIC_URL=__PUBLIC_URL_TO_REPLACE__
+```
+
 ### Local configuration
+
+Today there is no local configuration. You have to modify locally the above files and be careful not to commit these modifications.
+
+Of course for `.env` file the
