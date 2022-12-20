@@ -61,6 +61,8 @@ Today, in Stromae V2, the `configuration.json` file has no use and could be remo
 
 A work on environnement value could be very useful. We should be able to manage environment variables in the classical way with `.env` files.
 
+Besides, there are environment variables concerning the version of the lunatic workers that are classically used in the `.env` file
+
 ### Local configuration
 
 To have a local configuration there is a trick. Use a file `configuration-local.json` and `keycloak-local.json` which are not commited because added to the [`.gitignore`](https://github.com/InseeFr/Stromae/blob/083b8d05f51150cba6fcbdc6d89fda70121057ce/.gitignore#L21-L23).
