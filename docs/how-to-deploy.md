@@ -18,12 +18,12 @@ slug: /deploy
 
 The official docker images required to deploy an instance of Survey Design product are available on the [inseefr docker repositories](https://hub.docker.com/u/inseefr) :
 
-- [Pogues](https://hub.docker.com/r/inseefr/pogues/tags)
+- [Pogues](https://hub.docker.com/r/inseefr/pogues)
 - [Pogues-Back-Office](https://hub.docker.com/r/inseefr/pogues-back-office)
-- [Eno-WS](https://hub.docker.com/r/inseefr/eno-ws/tags)
-- [DDI-Access-Services](https://hub.docker.com/r/inseefr/ddi-access-services/tags)
-- [Stromae V1 (1.X.X) et V2 (2.X.X)](https://hub.docker.com/r/inseefr/stromae/tags)
-- [Stromae-db](https://hub.docker.com/r/inseefr/stromae-db/tags)
+- [Eno-WS](https://hub.docker.com/r/inseefr/eno-ws)
+- [DDI-Access-Services](https://hub.docker.com/r/inseefr/ddi-access-services)
+- [Stromae V1 (1.X.X) et V2 (2.X.X)](https://hub.docker.com/r/inseefr/stromae)
+- [Stromae-db](https://hub.docker.com/r/inseefr/stromae-db)
 - [Queen](https://hub.docker.com/r/inseefr/queen)
 
 :::warning Warning
