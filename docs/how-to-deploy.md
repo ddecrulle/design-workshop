@@ -66,4 +66,4 @@ You can found examples for each app here :
 
 ## Other installations
 
-We do not provide yet install scripts for other environment than kubernetes.
+We do not yet provide install scripts for other environment than kubernetes.
