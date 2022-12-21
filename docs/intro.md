@@ -26,7 +26,7 @@ Some software building blocks are essential and dependent on the operation of th
 
 These are:
 
-- [DDI-Access-Services](https://github.com/InseeFr/DDI-Acess-Services)
+- [DDI-Access-Services](https://github.com/InseeFr/DDI-Access-Services/)
 - [Stromae V1](https://github.com/InseeFr/Stromae)
 
 :::
